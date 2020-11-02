@@ -13,7 +13,7 @@ int main(){
         scanf("%d", &arr[i]);
     }
     printf("\nMaximum element in the array is: %d", find_max(arr,size));
-    printf("\nMaximum element in the array is: %d", find_min(arr,size));
+    printf("\nMinimum element in the array is: %d", find_min(arr,size));
     return 0;
 }
 
